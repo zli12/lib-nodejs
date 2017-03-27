@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-express",
+  "description": "sandbox for nodejs + express",
+  "main": "app.js",
+  "authors": [
+    "zli"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
